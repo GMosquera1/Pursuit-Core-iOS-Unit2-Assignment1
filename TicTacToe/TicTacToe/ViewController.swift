@@ -10,8 +10,13 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var firstButton: GameButton!
+    
+    
+    
   override func viewDidLoad() {
     super.viewDidLoad()
+    firstButton.row = 0
     // Do any additional setup after loading the view, typically from a nib.
   }
 

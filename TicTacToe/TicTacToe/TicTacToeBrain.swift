@@ -9,5 +9,5 @@
 import Foundation
 
 class TicTacToeBrain {
-  
+  // this is where you will model your logic
 }
